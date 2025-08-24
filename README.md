@@ -7,7 +7,7 @@
 ## 📁 Project Files
 
 <a href="https://drive.google.com/drive/folders/16dY4jWPSJWfZNA-Bryo9AIfXXvdgku7v ">
-  <img src="https://img.shields.io/badge/📂_Google_Drive-Access_Project_Files-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Project Files" />
+  <img src="https://img.shields.io/badge/_Google_Drive-Access_Project_Files-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Project Files" />
 </a>
 
 ---
