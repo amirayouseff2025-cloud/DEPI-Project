@@ -1,2 +1,37 @@
 # DEPI-Project
-[Open in Google Drive](https://drive.google.com/drive/folders/16dY4jWPSJWfZNA-Bryo9AIfXXvdgku7v?usp=drive_link)
+
+<h1 align="center">LYRA Store</h1>
+
+<div align="center">
+  
+## 📁 Project Files
+
+<a href="https://drive.google.com/drive/folders/16dY4jWPSJWfZNA-Bryo9AIfXXvdgku7v ">
+  <img src="https://img.shields.io/badge/📂_Google_Drive-Access_Project_Files-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive Project Files" />
+</a>
+
+---
+
+## 🔍 Project Description
+LYRA Store is an intermediary company specialized in the cosmetics industry, focusing on marketing and distributing hair care products through professional strategies that ensure brands reach a wide range of customers.
+
+---
+
+## 🎓 Program Information
+**Digital Egypt Pioneers Initiative (DEPI)**  
+**Track:** Digital Marketing Specialist
+
+---
+
+## 👥 Team Members - Group 3
+
+| Member |
+|--------|
+| 🎯 Amira Mohamed Youssef: **الأول**  |
+| 🎯 **التاني** |
+| 🎯 **التالت** |
+| 🎯 **الرابع** |
+| 🎯 **الخامس** |
+| 🎯 **السادس** |
+
+</div>
