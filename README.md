@@ -28,10 +28,10 @@ LYRA Store is an intermediary company specialized in the cosmetics industry, foc
 | Member |
 |--------|
 | 🎯 Amira Mohamed Youssef: **الأول**  |
-| 🎯 **التاني** |
-| 🎯 **التالت** |
-| 🎯 **الرابع** |
-| 🎯 **الخامس** |
-| 🎯 **السادس** |
+| 🎯Amira Mohamed Youssef: **التاني** |
+| 🎯Amira Mohamed Youssef: **التالت** |
+| 🎯Amira Mohamed Youssef: **الرابع** |
+| 🎯Amira Mohamed Youssef: **الخامس** |
+| 🎯Amira Mohamed Youssef: **السادس** |
 
 </div>
