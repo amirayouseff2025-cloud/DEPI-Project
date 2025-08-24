@@ -23,7 +23,7 @@ LYRA Store is an intermediary company specialized in the cosmetics industry, foc
 
 ---
 
-## 👥 Team Members - Group 3
+## 👥 Team Members - Group 2
 
 | Member |
 |--------|
