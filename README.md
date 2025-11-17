@@ -3,7 +3,8 @@
 <h1 align="center">LYRA Store</h1>
 
 <div align="center">
-  
+  [LYRA cosmetics store .pdf](https://github.com/user-attachments/files/23579455/LYRA.cosmetics.store.pdf)
+
 ## 📁 Project Files
 
 <a href="https://drive.google.com/drive/folders/16dY4jWPSJWfZNA-Bryo9AIfXXvdgku7v ">
